@@ -1,5 +1,5 @@
-# Date : 22-08-2025
-## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
+## Date : 22-08-2025
+# Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
 
 
 # Objective
@@ -54,13 +54,15 @@ ________________________________________
 # Output (Screenshots)
 
 •	Router CLI configuration<br>
-<img width="1920" height="1080" alt="Screenshot 2025-08-22 091106" src="https://github.com/user-attachments/assets/782417b1-ec25-4a4d-871e-7570d05dd134" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-22 091108" src="https://github.com/user-attachments/assets/156ddd36-ef4a-42fb-8ebf-7f8cf43b6c3f" />
 
 •	IP configurations on PCs<br>
-<img width="1920" height="1080" alt="Screenshot 2025-08-22 091123" src="https://github.com/user-attachments/assets/8d4c6ebc-e400-44dd-8f59-3c8327d1e031" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-08-22 091120" src="https://github.com/user-attachments/assets/d9b42d9f-1f94-4c49-8e97-1ff52b4f1472" />
 
 •	Successful ping between PC0 and PC1<br>
-<img width="1920" height="1080" alt="Screenshot 2025-08-22 091458" src="https://github.com/user-attachments/assets/8cb5cf41-e9d7-4d7a-94e4-8f5ffe2bc81f" />
+
+<img width="1917" height="1077" alt="Screenshot 2025-08-22 091422" src="https://github.com/user-attachments/assets/7554cfea-33ed-4257-8c1e-0c08e2910a54" />
 
 ________________________________________
 # Result
